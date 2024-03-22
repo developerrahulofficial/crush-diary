@@ -1,15 +1,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/zernonia/secret-diary">
+  <a href="github.com/developerrahulofficial/crush-diary">
     <img src="src/assets/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Secret Diary</h3>
+  <h3 align="center">Crush Diary</h3>
 
   <p align="center">
-    Secret Diary Apps (submission for <strong><a href="https://supabase.io/">Supabase Hackathon</a></strong>)
-    <br />
+
     <br />
     <a href="https://secret-diary.vercel.app/">View Demo</a>
     ·
