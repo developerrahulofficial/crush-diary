@@ -1,20 +1,4 @@
-<!-- PROJECT LOGO --
 
-
-  <h3 align="center">Crush Diary</h3>
-
-  <p align="center">
-
-    <br />
-    <a href="https://secret-diary.vercel.app/">View Demo</a>
-    ·
-    <a href="https://github.com/zernonia/secret-diary/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/zernonia/secret-diary/issues">Request Feature</a>
-  </p>
-</p>
-
-![Supabase Schema](src/assets/preview.png)
 
 ## 🚀 Features
 
