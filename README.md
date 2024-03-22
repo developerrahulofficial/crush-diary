@@ -1,9 +1,5 @@
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="github.com/developerrahulofficial/crush-diary">
-    <img src="src/assets/logo.svg" alt="Logo" width="80" height="80">
-  </a>
+<!-- PROJECT LOGO --
+
 
   <h3 align="center">Crush Diary</h3>
 
